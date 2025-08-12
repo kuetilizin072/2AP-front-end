@@ -14,5 +14,13 @@ footer{
     height: 5vh;
 }
 .contPrincipal{
-    display: flex;
+    display: grid;
+    grid-template-columns:1fr 2fr ;
+    gap: 5%;
+}
+h3{
+    font-size: 30px;
+    font-family: ;
+    color:whitesmoke ;
+    text-align:right ;
 }
